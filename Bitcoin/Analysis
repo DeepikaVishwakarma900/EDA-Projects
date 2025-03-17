@@ -1,0 +1,36 @@
+Performed an in-depth exploratory analysis on 1,556 daily Bitcoin price records using Python, Pandas, Matplotlib, Seaborn, and Plotly. Identified key trends, volatility patterns, and time-based price movements.
+  Discovered that Bitcoin's highest price growth occurred in Q4 2017, with an average daily price change of 1.61% and significant volatility, with daily swings reaching ±547.71. 
+  Used log scaling for better early-stage trend visualization and candlestick charts for OHLC price comparison. 
+  Delivered data-driven insights for financial decision-making.
+
+🔹 Key Findings from Bitcoin Price Analysis
+1️⃣ Dataset Overview:
+
+Analyzed 1,556 daily Bitcoin price records from historical data.
+2️⃣ Price Trends & Volatility:
+
+Highest Closing Price: $2,958.11
+Lowest Closing Price: $68.43
+Average Closing Price: $584.24
+Standard Deviation of Closing Price: $525.90 (high volatility).
+Highest Daily High Price: $2,999.91
+Lowest Daily Low Price: $65.53
+3️⃣ Percentage Changes (Volatility in Returns):
+
+Maximum Daily Price Change: 547.71 (extreme fluctuation).
+Minimum Daily Price Change: -293.59 (biggest drop).
+Mean Daily Price Change: 1.61%
+4️⃣ Time-Based Trends (Yearly, Monthly, Quarterly Analysis):
+
+Highest Annual Closing Price Growth: 2017 (Bitcoin surged significantly).
+Quarter with the Highest Price Growth: Q4 2017
+Most Volatile Months: December & January showed large price swings.
+5️⃣ Log vs. No Scaling Insights:
+
+Log Scaling helped visualize early-stage Bitcoin trends more effectively.
+No Scaling emphasized major fluctuations but obscured early-stage price movements.
+6️⃣ Comparing Open, High, Low, Close (OHLC) Prices:
+
+Largest Difference (High - Low) in a Single Day: $630.81
+Largest Difference (Close - Open) in a Single Day: $547.71
+
