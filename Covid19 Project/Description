@@ -1,0 +1,11 @@
+This project provides an in-depth analysis of COVID-19 data using Python and Jupyter Notebook. Designed for beginner data analysts, it covers data cleaning, exploratory data analysis (EDA), and visualization to uncover key trends and insights about the pandemic.
+
+Key Features
+✅ Data preprocessing and cleaning
+✅ Exploratory Data Analysis (EDA) with Pandas & Matplotlib
+✅ Visualizations of COVID-19 trends and patterns
+✅ Beginner-friendly approach to data analysis
+
+Technologies Used
+🔹 Python (Pandas, Matplotlib, Seaborn)
+🔹 Jupyter Notebook
